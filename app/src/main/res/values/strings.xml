@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AgriClime</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="kualitas_udara">Air Quality</string>
+    <string name="news">News</string>
+    <string name="scan">Scan</string>
+    <string name="history">History</string>
+    <string name="detail_history">Detail History</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+    <string name="location_test">Denpasar</string>
+    <string name="back_button_description">back button description</string>
+    <string name="this_is_the_news_activity">This is the News Activity</string>
+    <string name="image_news">Image News</string>
+    <string name="news_title">News Title</string>
+    <string name="date_news">Date News</string>
+    <string name="news_items">news items</string>
 </resources>
