@@ -1,4 +1,3 @@
----
 ## 👥 Team Members
 
 | Name                         | Learning Path       | GitHub                                     |
@@ -10,5 +9,3 @@
 | Putu Indira Artha Hapsari    | Cloud Computing     | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://) |
 | I Gede Cahya Kesuma          | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/CahyaKesumaa) |
 | I Komang Indra Pramana       | Mobile Development  | [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/X-Indra-P) |
-
----
