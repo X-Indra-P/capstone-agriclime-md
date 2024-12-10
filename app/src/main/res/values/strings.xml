@@ -3,7 +3,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="dashboard">Dashboard</string>
-    <string name="kualitas_udara">Air Quality</string>
     <string name="news">News</string>
     <string name="scan">Scan</string>
     <string name="history">History</string>
@@ -17,4 +16,19 @@
     <string name="news_title">News Title</string>
     <string name="date_news">Date News</string>
     <string name="news_items">news items</string>
+
+    // detail
+    <string name="kualitas_udara">Air Quality</string>
+    <string name="saran">Tanaman yang Cocok Ditanam Hari</string>
+    <string name="infosaran">info saran</string>
+    <string name="cuaca">Cuaca</string>
+    <string name="ramalan">Ramalan</string>
+    <string name="infocuaca">Info Cuaca</string>
+    <string name="peringatan">Peringatan</string>
+    <string name="infoperingatan">info peringatan</string>
+    <string name="Kelembaban">Kelembaban</string>
+    <string name="info_kelembaban">info kelembaban</string>
+    <string name="tips">Tips</string>
+    <string name="cuaca2">Feels Like</string>
+    <string name="infocuaca2">info feels like</string>
 </resources>

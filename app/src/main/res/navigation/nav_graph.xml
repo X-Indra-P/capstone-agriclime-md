@@ -7,10 +7,30 @@
         android:id="@+id/dashboardActivity"
         android:name="com.capstone.agriclime.ui.activity.DashboardActivity"
         android:label="activity_dashboard"
-        tools:layout="@layout/home_dashboard" />
+        tools:layout="@layout/activity_dashboard" />
     <activity
         android:id="@+id/newsActivity"
         android:name="com.capstone.agriclime.ui.activity.NewsActivity"
         android:label="activity_news"
         tools:layout="@layout/activity_news" />
+    <activity
+        android:id="@+id/cuacaActivity"
+        android:name="com.capstone.agriclime.ui.activity.CuacaActivity"
+        android:label="activity_cuaca"
+        tools:layout="@layout/activity_cuaca" />
+    <activity
+        android:id="@+id/peringatanActivity"
+        android:name="com.capstone.agriclime.ui.activity.PeringatanActivity"
+        android:label="activity_peringatan"
+        tools:layout="@layout/activity_peringatan" />
+    <activity
+        android:id="@+id/udaraActivity"
+        android:name="com.capstone.agriclime.ui.activity.UdaraActivity"
+        android:label="activity_udara"
+        tools:layout="@layout/activity_udara" />
+    <activity
+        android:id="@+id/saranActivity"
+        android:name="com.capstone.agriclime.ui.activity.SaranActivity"
+        android:label="activity_saran"
+        tools:layout="@layout/activity_saran" />
 </navigation>
