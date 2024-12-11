@@ -9,13 +9,13 @@ import com.capstone.agriclime.R
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.home_dashboard)
+        setContentView(R.layout.activity_dashboard)
 
         // Bind News Icon
         val newsIcon = findViewById<ImageButton>(R.id.newsIcon)
         newsIcon.setOnClickListener {
             // Navigasi ke NewsActivity
-            val intent = Intent(this, NewsActivity::class.java)
+            val intent = Intent(this, PlantActivity::class.java)
             startActivity(intent)
         }
     }

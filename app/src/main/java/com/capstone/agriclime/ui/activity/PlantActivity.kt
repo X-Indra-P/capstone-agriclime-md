@@ -5,11 +5,11 @@ import android.widget.ImageButton
 import androidx.appcompat.app.AppCompatActivity
 import com.capstone.agriclime.R
 
-class NewsActivity : AppCompatActivity() {
+class PlantActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_news) // Menggunakan layout untuk NewsActivity
+        setContentView(R.layout.activity_plant) // Menggunakan layout untuk NewsActivity
 
         // Menangani klik pada tombol back
         val backButton = findViewById<ImageButton>(R.id.back_button)

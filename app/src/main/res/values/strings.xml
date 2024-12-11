@@ -4,7 +4,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="dashboard">Dashboard</string>
     <string name="kualitas_udara">Air Quality</string>
-    <string name="news">News</string>
+    <string name="plant">Plant</string>
     <string name="scan">Scan</string>
     <string name="history">History</string>
     <string name="detail_history">Detail History</string>
