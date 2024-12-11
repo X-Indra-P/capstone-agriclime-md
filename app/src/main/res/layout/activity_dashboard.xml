@@ -52,7 +52,7 @@
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_marginTop="5dp"
-            android:src="@drawable/icon_news"
+            android:src="@drawable/icon_plant"
             android:background="@null"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"

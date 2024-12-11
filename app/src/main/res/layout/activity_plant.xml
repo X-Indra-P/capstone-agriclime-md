@@ -65,18 +65,33 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:padding="16dp">
-            
+
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/news_items_recyclerview"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
+                android:layout_marginStart="9dp"
+                android:layout_marginEnd="10dp"
                 android:layout_marginBottom="10dp"
                 android:contentDescription="@string/news_items"
                 android:orientation="vertical"
-                app:layoutManager="LinearLayoutManager"
                 android:paddingBottom="20dp"
-                tools:listitem="@layout/plant_items"/>
+                app:layoutManager="LinearLayoutManager"
+                tools:listitem="@layout/plant_items" />
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/loading"
+        android:indeterminateDrawable="@drawable/rotate_loading"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/nestedScrollView"
+        app:layout_constraintTop_toTopOf="@+id/toolBar"
+        tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -14,8 +14,8 @@
     <string name="back_button_description">back button description</string>
     <string name="this_is_the_news_activity">This is the News Activity</string>
     <string name="image_news">Image News</string>
-    <string name="news_title">News Title</string>
-    <string name="date_news">Date News</string>
+    <string name="plant_title">Plant Title</string>
+    <string name="scientific_name">Scientific Name</string>
     <string name="news_items">news items</string>
 
     <string name="saran">Tanaman yang Cocok Ditanam Hari</string>
@@ -30,4 +30,6 @@
     <string name="tips">Tips</string>
     <string name="cuaca2">Feels Like</string>
     <string name="infocuaca2">info feels like</string>
+    <string name="family_common_name">Family Common Name</string>
+    <string name="loading">loading</string>
 </resources>

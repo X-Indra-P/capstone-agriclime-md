@@ -1,0 +1,10 @@
+<!-- res/drawable/rotate_drawable.xml -->
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:toDegrees="360"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:drawable="@drawable/progress_shape"
+    android:duration="1000"
+    android:repeatCount="infinite"
+    android:interpolator="@android:interpolator/linear" />

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">d2seqvvyy3b8p2.cloudfront.net</domain>
+        <domain includeSubdomains="true">bs.plantnet.org</domain>
+    </domain-config>
+</network-security-config>

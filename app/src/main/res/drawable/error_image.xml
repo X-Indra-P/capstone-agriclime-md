@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFCDD2" /> <!-- Warna merah muda (indikasi error) -->
+    <corners android:radius="8dp" /> <!-- Sudut melengkung -->
+    <stroke android:width="2dp" android:color="#F44336" /> <!-- Garis tepi merah -->
+</shape>
