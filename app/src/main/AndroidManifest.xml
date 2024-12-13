@@ -19,6 +19,18 @@
             android:name=".ui.activity.PlantActivity"
             android:exported="true" />
         <activity
+            android:name=".ui.activity.CuacaActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ui.activity.PeringatanActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ui.activity.SaranActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ui.activity.UdaraActivity"
+            android:exported="false"/>
+        <activity
             android:name=".ui.activity.DashboardActivity"
             android:exported="false" />
         <activity
