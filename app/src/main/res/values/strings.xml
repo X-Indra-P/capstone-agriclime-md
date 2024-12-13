@@ -3,7 +3,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="dashboard">Dashboard</string>
-    <string name="kualitas_udara">Air Quality</string>
+    <string name="kualitas_udara">Humidity</string>
     <string name="plant">Plant</string>
     <string name="scan">Scan</string>
     <string name="history">History</string>
@@ -21,15 +21,18 @@
     <string name="saran">Tanaman yang Cocok Ditanam Hari</string>
     <string name="infosaran">info saran</string>
     <string name="cuaca">Cuaca</string>
-    <string name="ramalan">Ramalan</string>
-    <string name="infocuaca">Info Cuaca</string>
+    <string name="ramalan">Dampak</string>
+    <string name="infocuaca">Temperatur memengaruhi fotosintesis, pertumbuhan, dan produktivitas tanaman. Suhu ekstrem dapat menyebabkan stres pada tanaman.</string>
     <string name="peringatan">Peringatan</string>
-    <string name="infoperingatan">info peringatan</string>
+    <string name="infoperingatan">•Pasang windbreaks seperti pagar hidup (tanaman bambu atau pohon) atau jaring pelindung angin.\n• Jarak tanam yang lebih rapat dapat mengurangi efek angin pada tanaman kecil.</string>
     <string name="Kelembaban">Kelembaban</string>
-    <string name="info_kelembaban">info kelembaban</string>
+    <string name="info_kelembaban">Panduan:\n
+    Gunakan fungisida preventif jika kelembapan tinggi.\n
+    Pastikan ventilasi udara baik di sekitar tanaman dengan jarak tanam yang cukup.\n
+    Kelembapan rendah (Kurang dari 40%): Irigasi tetes dapat membantu menjaga kelembapan di area akar.</string>
     <string name="tips">Tips</string>
-    <string name="cuaca2">Feels Like</string>
-    <string name="infocuaca2">info feels like</string>
+    <string name="cuaca2">Arah Angin dan Kecepatan Angin</string>
+    <string name="infocuaca2">Arah Angin : Menentukan penyebaran hama, penyakit, dan efisiensi penyemprotan pestisida.\n  \nKecepatan Angin :Angin kencang dapat merusak tanaman, mengurangi kelembapan tanah, serta mempengaruhi proses penyerbukan dan penyemprotan pestisida.</string>
     <string name="family_common_name">Family Common Name</string>
     <string name="loading">loading</string>
     <string name="test_temp">34°C</string>
@@ -55,4 +58,7 @@
     <string name="the_current_dew_point_is_30_text">The current dew point is 30°</string>
     <string name="uv_index_test">UV Index</string>
     <string name="_8_high_test">8 High</string>
+    <string name="humadity">Kelembapan tinggi (>80%) meningkatkan risiko penyakit jamur seperti embun tepung dan bercak daun.</string>
+    <string name="index_uv">Index UV</string>
+    <string name="info_uv">Paparan UV tinggi (>8) dapat merusak daun muda, mengurangi efisiensi fotosintesis, dan memengaruhi kesehatan tanaman.\nPanduan : \nGunakan net pelindung UV untuk melindungi tanaman muda atau rentan.\nTanam varietas tahan panas di area terbuka dengan paparan sinar matahari langsung.</string>
 </resources>
