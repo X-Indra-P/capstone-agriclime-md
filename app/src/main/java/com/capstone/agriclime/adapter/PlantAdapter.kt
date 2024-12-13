@@ -38,7 +38,7 @@ class PlantAdapter(private var plantList: List<Plant>) :
 
         Glide.with(holder.itemView.context)
             .load(plant.image_url)
-            .override(1000, 300)
+            .override(1200, 300)
             .placeholder(R.drawable.placeholder_image)
             .error(R.drawable.error_image)
             .into(holder.plantImage)

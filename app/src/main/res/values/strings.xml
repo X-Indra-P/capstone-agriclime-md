@@ -10,7 +10,7 @@
     <string name="detail_history">Detail History</string>
     <string name="account">Account</string>
     <string name="setting">Setting</string>
-    <string name="location_test">Denpasar</string>
+    <string name="location_test">Samarinda</string>
     <string name="back_button_description">back button description</string>
     <string name="this_is_the_news_activity">This is the News Activity</string>
     <string name="image_news">Image News</string>
@@ -32,4 +32,27 @@
     <string name="infocuaca2">info feels like</string>
     <string name="family_common_name">Family Common Name</string>
     <string name="loading">loading</string>
+    <string name="test_temp">34°C</string>
+    <string name="test_day">Day</string>
+    <string name="test_temp_c">34°C</string>
+    <string name="test_cloudy">Cloudy</string>
+    <string name="perkiraan">28 ~ 35°C Feels like 36°C</string>
+    <string name="wind_speed">15km/j</string>
+    <string name="arah_angin">251° BBD</string>
+    <string name="test_warning">Warning</string>
+    <string name="Dummy_text">• Pasang windbreaks seperti pagar hidup (tanaman bambu atau pohon) atau jaring pelindung angin.\n• Jarak tanam yang lebih rapat dapat mengurangi efek angin pada tanaman kecil.</string>
+    <string name="perjam_prediksi">Hourly Weather</string>
+    <string name="now_test">Now</string>
+    <string name="test_jam1">15.00</string>
+    <string name="test_jam2">16.00</string>
+    <string name="test_jam3">17.00</string>
+    <string name="_34_c_test">34°C</string>
+    <string name="_32_c_test">32°C</string>
+    <string name="_32_ctest">32°C</string>
+    <string name="_30_ctest">30°C</string>
+    <string name="humidity_test">Humidity</string>
+    <string name="_59_test">59%</string>
+    <string name="the_current_dew_point_is_30_text">The current dew point is 30°</string>
+    <string name="uv_index_test">UV Index</string>
+    <string name="_8_high_test">8 High</string>
 </resources>
